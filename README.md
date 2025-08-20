@@ -1,1 +1,0 @@
-# Vina-Prompt-Karakter
